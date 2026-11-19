@@ -20,7 +20,7 @@ experimentos de IA.
 - **Juegos y 3D:** Panda3D, PWA y controladores por celular.
 - **Idiomas:** español e inglés (bilingüe); chino mandarín (HSK 2).
 
-## Ahora: Toxinator
+## Con lo que me estoy divirtiendo ahora: Toxinator
 
 [![Pong 3D a pantalla dividida](assets/pong-3d.png)](https://github.com/skalanux/toxinator)
 
@@ -34,24 +34,12 @@ celular y fallback táctil.
 - [Pong 3D](https://github.com/skalanux/pong) — duelo 3D a pantalla dividida,
   con inclinación del celular y fallback táctil.
 
-## Trabajo seleccionado
+## Herramientas que mantengo y colaboro
 
-- **Qwil** (2014) — plataforma multiempresa para el ingreso y egreso de empleados, contratistas y
-  asesores, con planes de pago, participación accionaria, firma de documentos y
-  notificaciones. Django, DRF, AngularJS y Node.js.
-- **Yarará** (2012–2013) — plugin multinavegador para ejecutar código Python
-  dentro del navegador. Python, C++, ZeroMQ y Stomp.
-- **ABN** (2009) — sistema SNMP en Python para controlar y monitorear el Active
-  Resource Manager de Active Broadband Networks, con foco en rendimiento y
-  volumen de datos.
-- **[django-remote-scenario](https://github.com/skalanux/django-remote-scenario)**
-  — setup remoto de escenarios para tests end-to-end de proyectos Django.
 - **[django-scotty](https://github.com/skalanux/django-scotty)** — vistas de
   tablas avanzadas para Django: CRUD, filtros, exportación a Excel, acciones
   masivas y modales con htmx.
-- **[qrauth](https://github.com/skalanux/qrauth)** — herramienta local para
-  migrar cuentas de Google Authenticator a otros gestores TOTP sin subir nada a
-  la red.
+
 - **[puntofiles](https://github.com/skalanux/puntofiles)** — bootstrap de
   estaciones de trabajo con Ansible y chezmoi.
 
@@ -66,15 +54,33 @@ celular y fallback táctil.
 - **Web:** [react-mislupins](https://github.com/skalanux/react-mislupins) y
   [mislupin](https://github.com/skalanux/mislupin), herramientas para gestionar
   colecciones de la revista Lúpin.
+- **[qrauth](https://github.com/skalanux/qrauth)** — herramienta local para
+  migrar cuentas de Google Authenticator a otros gestores TOTP sin subir nada a
+  la red.
+
+## Salvando la cena.
+En el Pycamp 2022, participé del proyecto Salvando la cena, un juego que combina electrónica y habilidad para jugar en parejas https://github.com/PyAr/SalvandoLaCena. Gracias a esto construimos el proyecto llamado Pytari, una consola que hace uso de la electrónica que hicimos, dimos una charla en el Pyday SantaFe de 2022 https://www.python.org.ar/eventos/123/.
 
 ## Comunidad
+  En mis 20's Co-Funde el Grupo de usuarios de GNU/Linux de la ciudad de Lanús "Lanux" en 2002, dando charlas, hosteando eventos y difundiendo Linux por toda la Argentina y Brasil. 
+  
+  Algunas notas que mencionan a Lanux.
+  
+  https://www.infobae.com/economia/2022/05/05/unicornio-desconocido-nacio-en-lanus-aprendio-a-programar-solo-y-sorprende-al-mundo-con-su-startup-de-usd-2500-millones/
+  https://fasterthannormal.co/people/guillermo-rauch
+  
+  
+  Junto con otros grupos como Pyar y Misol, ganamos un concurso de desarrollo de juegos en Python para la OLPC en 2008
+  https://sistemas.com/12882.php
 
-- Charlas: [docopt](https://github.com/skalanux/docopt-talk) en PyConAr 2016 y
-  [“Matar a React”](https://github.com/skalanux/matar-a-react) sobre la web
-  simple con htmx.
-- [FLISoL Lanús 2016](https://es.linkedin.com/pulse/flisol-2016-en-lan%C3%BAs-juan-manuel-schillaci):
-  difusión del festival de instalación de software libre.
-- Stand de **PyAR** y participación en la comunidad Python/Django.
+De 2002 a 2019 Organicé reuniones de Lanux y Flisol en la Universidad Argentina John F Kennedy en la UNLA
+En 2011 Organicé Conurbania, un evento de charlas sobre software liibre en la UNLA
+En 2025 Ideé y Co organicé https://punto.coop.ar/events/punto-coop-2025/
+En 2016 Co-organicé la PyconAr de Bahía Blanca, fue una experiencia inolvidable. 
+Actualmente Co-organizo el Pyday de Hurlingham que en el año 2026 tuvo su 3era Edición en la UNAHUR. Soy miembro de Pyar, y de la Python Software foundation.
+  
+- Charlas: [docopt](https://github.com/skalanux/docopt-talk) https://www.youtube.com/watch?v=df4vKnINyy0&t=1090s en PyConAr 2016
+- [“Matar a React”](https://github.com/skalanux/matar-a-react) https://www.youtube.com/watch?v=lvzwFRhOIyY&t=7s sobre la web  simple con htmx.
 
 ## Formación y certificaciones
 
