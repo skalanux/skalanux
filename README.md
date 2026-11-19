@@ -15,6 +15,8 @@ celular y fallback táctil.
 
 - [Consola Toxinator](https://github.com/skalanux/toxinator) — runtime, launcher
   y API de juegos
+- [Pong 3D](https://github.com/skalanux/pong) — duelo 3D a pantalla dividida,
+  con inclinación del celular y fallback táctil
 
 ## Stack
 
