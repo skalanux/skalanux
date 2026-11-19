@@ -6,13 +6,15 @@ controladores por celular.
 
 ## Toxinator
 
-[![Pong 3D a pantalla dividida](assets/pong-3d.png)](https://github.com/toxinator-labs/pong)
+[![Pong 3D a pantalla dividida](assets/pong-3d.png)](https://github.com/skalanux/toxinator)
 
-- [Toxinator Labs](https://github.com/toxinator-labs) — el proyecto y sus juegos
-- [Consola](https://github.com/toxinator-labs/toxinator) — runtime, launcher y
-  API de juegos
-- [Pong 3D](https://github.com/toxinator-labs/pong) — duelo 3D a pantalla
-  dividida, con inclinación del celular y fallback táctil
+Toxinator es una consola de juegos 3D personal: un runtime en Python/Panda3D,
+un launcher, controladores por celular y juegos que se cargan como plugins.
+Pong 3D es el primer juego: duelo a pantalla dividida, con inclinación del
+celular y fallback táctil.
+
+- [Consola Toxinator](https://github.com/skalanux/toxinator) — runtime, launcher
+  y API de juegos
 
 ## Stack
 
@@ -22,4 +24,3 @@ lo pide.
 ## Links
 
 - GitHub: [@skalanux](https://github.com/skalanux)
-- Proyecto: [github.com/toxinator-labs](https://github.com/toxinator-labs)
