@@ -36,13 +36,13 @@ celular y fallback táctil.
 
 ## Trabajo seleccionado
 
-- **Qwil** (2014) — plataforma multiempresa para onboarding y offboarding de
-  empleados, contratistas y asesores, con planes de pago, equity, firma de
-  documentos y notificaciones. Django, DRF, AngularJS y Node.js.
-- **Yarará** (2012–2013) — plugin multi-browser para ejecutar código Python
+- **Qwil** (2014) — plataforma multiempresa para el ingreso y egreso de empleados, contratistas y
+  asesores, con planes de pago, participación accionaria, firma de documentos y
+  notificaciones. Django, DRF, AngularJS y Node.js.
+- **Yarará** (2012–2013) — plugin multinavegador para ejecutar código Python
   dentro del navegador. Python, C++, ZeroMQ y Stomp.
 - **ABN** (2009) — sistema SNMP en Python para controlar y monitorear el Active
-  Resource Manager de Active Broadband Networks, con foco en performance y
+  Resource Manager de Active Broadband Networks, con foco en rendimiento y
   volumen de datos.
 - **[django-remote-scenario](https://github.com/skalanux/django-remote-scenario)**
   — setup remoto de escenarios para tests end-to-end de proyectos Django.
